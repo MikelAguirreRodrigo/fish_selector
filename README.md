@@ -1,7 +1,6 @@
 # fish_selector
 
-Correct the taxonomic asignation using SNP identification of Herrin, anchovy, sardina, spratus fishes.
-
+Character based approach for OTU assignation; application to discriminate four clupeid species: Clupea harengus, Sardina pilchardus, Sprattus sprattus and Engraulis encrasicolus at 18S rRNA V9 barcode (Earth Microbiome Project´s eukaryote barcode).
 
 
 run:
