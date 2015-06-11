@@ -16,4 +16,4 @@ a table with SNP identification over the taxonomic identification of QIIME using
 fish_selector doesn't have a paper, but you can cite it like this:
 
 Aguirre M. (2015). FISH_SELECTOR: New character based approach for OTU assignation. 
-(Version 1.1) [Software].  Available at https://MikelAguirreRodrigo/fish_selector.
+(Version 1.1) [Software].  Available at https://github.com/MikelAguirreRodrigo/fish_selector.
